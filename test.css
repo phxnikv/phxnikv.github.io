@@ -1,0 +1,33 @@
+body {
+	background-color: #DCDDDF;
+	font-family: Arial; 
+}
+.display {
+	height: 250px;
+	margin-top: 50px;
+	margin-left: 50px;
+	display: inline-block;
+	position: relative;
+	
+}
+.value {
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 50px;
+	
+}
+.line {
+	display: inline;
+	font-size: 25px;
+	margin-top: 10px;
+	
+    
+}
+.info {
+	display: inline-block;
+	margin-left: 50px;
+}
+.table {
+	margin-left: 50px;
+	
+}
